@@ -1,4 +1,4 @@
-FROM golang:1.16-alpine
+FROM golang:1.20-alpine
 WORKDIR /app
 ENV APP_ENV="dev"
 ENV JWT_KEY="A?D(G+KbPeShVmYq3t6w9y$B&E)H@McQfTjWnZr4u7x!A%C*F-JaNdRgUkXp2s5v"

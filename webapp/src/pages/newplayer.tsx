@@ -126,7 +126,7 @@ function NewPlayer() {
                 isDisabled={name === "" || isError}
                 onClick={() => handleRoomAction()}
               >
-                Let's begin!
+                Vamos começar!
               </Button>
             </Stack>
           </Box>
