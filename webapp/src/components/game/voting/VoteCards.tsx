@@ -21,7 +21,7 @@ export const VoteCards = () => {
   return (
     <Box>
       <Text fontSize="lg" textAlign="center" mb={5}>
-        Choose your card 👇
+        Escolha seu card 👇
       </Text>
       <Box
         overflowY="auto"
